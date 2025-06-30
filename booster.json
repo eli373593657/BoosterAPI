@@ -1,13 +1,10 @@
 {
-  "name": "booster-api",
-  "version": "1.0.0",
-  "description": "Express API for checking booster status",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
+  "729384726391823488": {
+    "premium_since": "2024-06-01T12:30:00.000Z",
+    "roles": ["123456789012345678", "876543210987654321"]
   },
-  "dependencies": {
-    "express": "^4.18.2",
-    "fs-extra": "^11.1.1"
+  "817263817263817263": {
+    "premium_since": null,
+    "roles": ["876543210987654321"]
   }
 }
