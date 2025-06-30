@@ -1,0 +1,5 @@
+{
+  "method": "role",       // "role" or "nitro"
+  "testRoleId": "123456789012345678",  // Used for "role" method - disables when using "nitro."
+  "port": 3000
+}
